@@ -1,0 +1,24 @@
+Algoritmo seleccionarremes
+	Definir mes Como Entero
+	
+	Escribir " Introduce el numero de los meses del año"
+	Leer mes
+	Segun mes Hacer
+		1: Escribir "Enero El mes de los nuevos comienzos, donde todo es posible y los sueños se renuevan"
+		2: Escribir "Febrero El amor florece en el aire de febrero, el mes de San Valentín y los corazones entrelazados"
+		3: Escribir "Marzo Marzo trae consigo la promesa de la primavera, cuando la naturaleza despierta de su letargo invernal"
+		4: Escribir " Abril  el mes en que las lluvias nutren la tierra, preparando el camino para las flores de mayo"
+		5: Escribir " Mayo  las flores alcanzan su esplendor, celebrando la belleza de la primavera en todo su apogeo"
+		6: Escribir " Junio  marca el comienzo del verano, donde los días se alargan y el sol brilla con mayor intensidad"
+		7: Escribir " Julio es sinónimo de calor y celebraciones, donde el verano se disfruta en su máxima expresión "
+		8: Escribir " Agosto el mes de las vacaciones, donde las aventuras y el descanso van de la mano "
+		9: Escribir " septiembre  el otoño empieza a asomar, trayendo consigo una brisa fresca y hojas doradas "
+		10: Escribir " Octubre es el mes de la magia otoñal y las calabazas talladas, anticipando la llegada de Halloween "
+		11: Escribir " Noviembre nos invita a la reflexión y gratitud, con el Día de Acción de Gracias uniendo familias y amigos "
+		12: Escribir " Diciembre es el mes de la alegría y las festividades, cerrando el año con luces, regalos y buenos deseos "
+		
+	FinSegun
+	
+	
+	
+FinAlgoritmo
