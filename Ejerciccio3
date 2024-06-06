@@ -1,0 +1,25 @@
+Algoritmo notadeestudiante
+	Definir nota  Como Entero
+	
+	Escribir " Introducela nota del estudiante (0-100)"
+	Leer nota 
+
+	segun nota hacer 
+		95,96,97,98,99,100:
+		Escribir "sobresaliente"
+	    90, 91, 92, 93, 94:
+		Escribir "Excellente"
+		85, 86, 87, 88, 89:
+		Escribir "Muy bueno"
+	    80, 81, 82, 83, 84:
+		Escribir "Bueno"
+		70, 71, 72, 73, 74, 75, 76, 77, 78, 79:
+			Escribir "Satisfactorio, pero se puede mejorar"
+		
+		De Otro Modo:
+            Escribir "Nota no válida. Debe ser un número entre 0 y 100."
+		
+	FinSegun
+	
+	
+FinAlgoritmo
